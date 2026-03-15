@@ -67,8 +67,8 @@ const Footer = () => {
             <span className="font-mono-label text-muted-foreground">Contact</span>
             <ul className="mt-4 space-y-2 text-sm text-foreground/70">
               <li>contact@cyberhelp.com</li>
-              <li>+1 (800) 555-0199</li>
-              <li>New York, NY</li>
+              <li>+91 8966030604</li>
+              <li>India</li>
             </ul>
           </div>
 
